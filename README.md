@@ -1,14 +1,13 @@
-## Olá! 👋
+## Olá. Me chamo Alan Marcel! 👋
 
-Me chamo **Alan Marcel** e sou um estudante de _Ciência da Computação_, apaixonado por 'ciência e tecnologia'.
+- Estudante de Ciência da Computação na Universidade Tiradentes
+- Aspirante na área da Computação
+- Inclinado para áreas de Dados e Desenvolvimento Web
 
-Aqui está algumas coisas interessantes sobre mim:
-
-- Faço Ciência da Computação na Universidade Tiradentes
-- Interesso-me pelas áreas de Desenvolvimento Web e Dados
-- Gosto de consumir conteúdos científicos
+Aqui está algum dos meus principais interesses:
+- Consumir conteúdos científicos
 - Gosto de estar por dentro das principais tecnologias
-- Busco saber o mínimo sobre todas as áreas da TI
-- Gosto de ficção científica e filmes reflexivos
+- Buscar saber o mínimo de todas as áreas da TI
+- Inspirado por filmes e livros de ficção científica
 
-Acesse meu LinkedIn para saber mais sobre mim!
+Acesse os links do meu perfil para saber mais sobre mim!
