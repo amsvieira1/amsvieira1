@@ -1,4 +1,5 @@
-## Olá. Me chamo Alan Marcel! 👋
+## Olá! 👋
+## Me chamo Alan Vieira.
 
 - Estudante de Ciência da Computação na Universidade Tiradentes
 - Aspirante na área da Computação
