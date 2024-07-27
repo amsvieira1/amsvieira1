@@ -1,7 +1,5 @@
-### Olá! 👋
-### Me chamo Alan Vieira.
-Programador | Java, C++ e SQL
-
-🚩 _Aracaju - SE, Brasil_
-
-Aspirante em TI. Estudo Ciência da Computação na Universidade Tiradentes. Interesso-me por áreas analíticas como Dados e IA, mas com uma leve curiosidade sobre Desenvolvimento Web. Apaixonado por ciência e tecnologia a fim de aprimorar a produtividade e inteligência humana.
+<div>
+<a href="https://github.com/alan-marcel">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-marcel&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alan-marcel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
